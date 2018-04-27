@@ -32,3 +32,4 @@ Portions Copyright (c) 2017-2018, The CryptoUnions developers</p>
 <li>We are also planning to merge with some third party payment solutions like wirexcard or payoneer so that you can link the card to our account and withdraw fund easily from the card by your nearest atm.</a></li>
 <li>Very Soon CryptoUnions are moving to different countires as a branch of it like: China, France, Singapore, India and Malaysis.</li>
 </ul>
+<p>Every latest Projects and news will be listed on GITHUB</p>
